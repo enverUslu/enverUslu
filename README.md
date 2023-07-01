@@ -1,6 +1,5 @@
 # Data Analyst Portfolio
-
-I'm a data analyst with a passion for Python, SQL and data-driven insights. On this profile, you'll find some of my portfolio projects that demonstrate my skills in data analysis and visualization using Python libraries, Jupyter Notebooks, SQL, Excel, Power BI and Web Scraping.
+Welcome to my portfolio! As a dedicated data analyst, I thrive on extracting meaningful insights from complex datasets using a variety of tools and techniques. Proficient in Python, SQL, and data visualization, I have honed my skills in data analysis through numerous projects showcased here. Utilizing Python libraries, Jupyter Notebooks, SQL, Excel, Power BI, and Web Scraping, I have developed a comprehensive repertoire in transforming data into actionable intelligence. Feel free to explore the projects featured here that exemplify my expertise in data analysis and visualization.
 
 ## Portfolio Projects
 
@@ -9,43 +8,44 @@ I'm a data analyst with a passion for Python, SQL and data-driven insights. On t
 Description: This project showcases my data analysis skills using Python libraries and Jupyter Notebooks.
 
 Analysis of Economic Data
-Repository: [My-Porfolio-Project](https://github.com/enverUslu/My-Porfolio-Project/)
-Screenshot: [My-Porfolio-Project]()
+[Repository](https://github.com/enverUslu/My-Porfolio-Project/)
+
+![My-Porfolio-Project](https://github.com/enverUslu/enverUslu/blob/main/dataAnalysis0.jpg)
+![My-Porfolio-Project](https://github.com/enverUslu/enverUslu/blob/main/dataAnalysis1.jpg)
+![My-Porfolio-Project](https://github.com/enverUslu/enverUslu/blob/main/dataAnalysis2.jpg)
+![My-Porfolio-Project](https://github.com/enverUslu/enverUslu/blob/main/dataAnalysis3.jpg)
+![My-Porfolio-Project](https://github.com/enverUslu/enverUslu/blob/main/dataAnalysis4.jpg)
 
 ### castScraper
 
 Description: A web scraper that extracts movie names, actors, and their roles from IMDb's website.
 
-Repository: [castScraper](https://github.com/enverUslu/castScraper)
+[Repository](https://github.com/enverUslu/castScraper)
 
-Screenshot:
-![castScraper](path/to/castScraper-screenshot.png)
+![castScraper](https://github.com/enverUslu/enverUslu/blob/main/webScraper.png)
 
 ### powerbi-analysis
 
-Description: Global Air Pollution Analysis using PowerBI.
+Description: Global Air Pollution Analysis / dashboard made in PowerBI
 
-Repository: [powerbi-analysis](https://github.com/enverUslu/powerbi-analysis)
+[Repository](https://github.com/enverUslu/powerbi-analysis)
 
-Screenshot:
-![powerbi-analysis](path/to/powerbi-analysis-screenshot.png)
+![powerbi-analysis](https://github.com/enverUslu/enverUslu/blob/main/PowerBIdashboard1.png)
 
+Description: An Analysis, Video Game Sales Insights: Exploring Publishers, Genres, and Sales Performance / dashboard made in PowerBI
+
+[Repository](https://github.com/enverUslu/power-bi-analysis-sql.git)
+
+![powerbi-analysis-2](https://github.com/enverUslu/enverUslu/blob/main/PowerBIdashboard0.png)
 
 ## SQL
-Repository:
-Screenshot: 
+This excerpt represents a concise segment of the SQL script I developed for my video game sales analysis project.
+See the full SQL script [here.](https://github.com/enverUslu/power-bi-analysis-sql/blob/main/SQLscript.sql)
 
-
-
-## PowerBI
-Repository:
-Screenshot:
+![sqlScript](https://github.com/enverUslu/enverUslu/blob/main/sqlScript.png)
 
 ## I can also design dashboards in Excel!
-Screenshot:
-
-
-
+![excelDashboard](https://github.com/enverUslu/enverUslu/blob/main/excelDashboard.png)
 
 ## Skills
 
