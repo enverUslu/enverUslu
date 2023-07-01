@@ -8,6 +8,7 @@ Welcome to my portfolio! As a dedicated data analyst, I thrive on extracting mea
 Description: This project showcases my data analysis skills using Python libraries and Jupyter Notebooks.
 
 Analysis of Economic Data
+
 [Repository](https://github.com/enverUslu/My-Porfolio-Project/)
 
 ![My-Porfolio-Project](https://github.com/enverUslu/enverUslu/blob/main/dataAnalysis0.jpg)
@@ -22,30 +23,30 @@ Description: A web scraper that extracts movie names, actors, and their roles fr
 
 [Repository](https://github.com/enverUslu/castScraper)
 
-![castScraper](https://github.com/enverUslu/enverUslu/blob/main/webScraper.png)
+![castScraper](https://github.com/enverUslu/enverUslu/blob/main/webScraper.PNG)
 
-### powerbi-analysis
+### PowerBI Analysis
 
 Description: Global Air Pollution Analysis / dashboard made in PowerBI
 
 [Repository](https://github.com/enverUslu/powerbi-analysis)
 
-![powerbi-analysis](https://github.com/enverUslu/enverUslu/blob/main/PowerBIdashboard1.png)
+![powerbi-analysis](https://github.com/enverUslu/enverUslu/blob/main/powerBIdashboard1.PNG)
 
 Description: An Analysis, Video Game Sales Insights: Exploring Publishers, Genres, and Sales Performance / dashboard made in PowerBI
 
 [Repository](https://github.com/enverUslu/power-bi-analysis-sql.git)
 
-![powerbi-analysis-2](https://github.com/enverUslu/enverUslu/blob/main/PowerBIdashboard0.png)
+![powerbi-analysis-2](https://github.com/enverUslu/enverUslu/blob/main/powerBIdashboard0.PNG)
 
 ## SQL
 This excerpt represents a concise segment of the SQL script I developed for my video game sales analysis project.
 See the full SQL script [here.](https://github.com/enverUslu/power-bi-analysis-sql/blob/main/SQLscript.sql)
 
-![sqlScript](https://github.com/enverUslu/enverUslu/blob/main/sqlScript.png)
+![sqlScript](https://github.com/enverUslu/enverUslu/blob/main/sqlScript.PNG)
 
 ## I can also design dashboards in Excel!
-![excelDashboard](https://github.com/enverUslu/enverUslu/blob/main/excelDashboard.png)
+![excelDashboard](https://github.com/enverUslu/enverUslu/blob/main/excelDashboard.PNG)
 
 ## Skills
 
