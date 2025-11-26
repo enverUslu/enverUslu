@@ -1,7 +1,7 @@
-# Data Analyst Portfolio
+# Data Scientist Portfolio
 Welcome to my portfolio. I’m a Data Scientist at Connected Circles in Amsterdam. My work spans Python, SQL, Power BI, and data visualization, supported by a strong background in data analysis, automation, and web scraping.
 
-This repository showcases projects that demonstrate my ability to analyze, visualize, and communicate data effectively. These projects reflect my practical approach to solving some real-world problems using data-driven methods.
+This repository showcases some of the projects that demonstrate my ability to analyze, visualize, and communicate data effectively. They reflect my practical approach to solving some real-world problems using data-driven methods.
 
 Feel free to explore my work;
 
